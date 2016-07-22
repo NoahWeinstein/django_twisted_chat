@@ -1,2 +1,4 @@
 
-django_twisted_chat/django_twisted_chat/settings_secret.py
+django_twisted_chat/django_twisted_chat/secret_settings.py
+django_twisted_chat/django_twisted_chat/secret_settings.pyc
+*.swp
